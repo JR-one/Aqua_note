@@ -322,6 +322,7 @@ $hasMinorProblems = (bool) count($minorProblems);
             .sf-reset a:hover,
             .sf-reset li a:hover {
                 color: #08C;
+                color: #08C;
                 text-decoration: underline;
             }
             .sf-reset textarea {
